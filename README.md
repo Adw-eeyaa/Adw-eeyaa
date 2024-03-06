@@ -5,7 +5,12 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-  
+  <!DOCTYPE html>
+  <html>
+    <body>
+      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnZHc8R1hxtXFuJ4THKEdfCBom5Vuhpt8hQ&usqp=CAU" />
+    </body>
+  </html>
 
 <!---
 Adw-eeyaa/Adw-eeyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
