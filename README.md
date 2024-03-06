@@ -6,14 +6,17 @@
 - 😄 Pronouns: he/him
 --->
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <body>
-    I like Anime
-    <img src="https://i.imgur.com/uAA7ijp.gif">
+    <div class="banner">
+       <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 90vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
+       <div style="position: absolute;top:50%;left: 50%;transform: translate(-50%,-50%);font-size: 60px;">I like Anime</div>
+    </div>
     
   </body>
 </html>
+
 
 
 <!---
