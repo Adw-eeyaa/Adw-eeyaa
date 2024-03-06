@@ -10,11 +10,8 @@
 <html>
   <body>
     I like Anime
-    <style>
-      .body{
-      background-image: url("https://i.imgur.com/uAA7ijp.gif");
-      }
-    </style>
+    <img src="https://i.imgur.com/uAA7ijp.gif">
+    
   </body>
 </html>
 
