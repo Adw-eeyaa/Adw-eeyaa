@@ -12,9 +12,12 @@
     <div class="banner">
        <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 50vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
     </div>
-    <div>
-    <h2>Oh yeah and I know these</h2>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="69"/>
+
+                                                Oh yeah and i know these
+
+                                 
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="69"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="69"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="50" height="69"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="69" />
