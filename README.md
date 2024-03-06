@@ -5,7 +5,7 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 --->
-                                                                         I like Anime                         
+                                                  I like Anime                         
 <!DOCTYPE html>
 <html>
   <body>
