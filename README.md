@@ -5,13 +5,19 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 --->
-I like Anime.
+
   <!DOCTYPE html>
-  <html>
-    <body>
-      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnZHc8R1hxtXFuJ4THKEdfCBom5Vuhpt8hQ&usqp=CAU" />
-    </body>
-  </html>
+<html>
+  <body>
+    I like Anime
+    <style>
+      .body{
+      background-image: url("https://i.imgur.com/uAA7ijp.gif");
+      }
+    </style>
+  </body>
+</html>
+
 
 <!---
 Adw-eeyaa/Adw-eeyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
