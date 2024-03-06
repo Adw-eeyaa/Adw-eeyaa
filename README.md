@@ -5,14 +5,12 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 --->
-
+                                                                         I like Anime                         
 <!DOCTYPE html>
 <html>
   <body>
-    <div class="banner">
-      <p align="center">
-       <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 50vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
-       <div style="position: absolute;top:50%;left: 50%;transform: translate(-50%,-50%);font-size: 60px;">I like Anime</div>
+   <div class="banner">
+      <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 50vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
     </div>
     
   </body>
