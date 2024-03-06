@@ -10,7 +10,7 @@
 <html>
   <body>
     <div class="banner">
-       <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 70vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
+       <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 50vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
     </div>
     <div>
     <h2>Oh yeah and I know these</h2>
