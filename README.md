@@ -5,7 +5,7 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 --->
-                                                  I like Anime                         
+                                                  absolute 2d nerd                         
 <!DOCTYPE html>
 <html>
   <body>
