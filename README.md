@@ -5,7 +5,7 @@
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
 --->
-                                                  absolute 2d nerd                         
+                                                  2d connoisseur with an insatiable love for pixels                       
 <!DOCTYPE html>
 <html>
   <body>
