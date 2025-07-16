@@ -13,7 +13,7 @@
        <img src="https://i.imgur.com/uAA7ijp.gif" style="height: 50vh;width:fit-content;display: block;margin-left: auto;margin-right: auto;">
     </div>
 
-                                                Oh yeah and i know these
+                                                Skills & Frameworks
 
                                  
   <div>
