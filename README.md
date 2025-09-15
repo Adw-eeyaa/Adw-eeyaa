@@ -35,14 +35,13 @@
 
 </div>
 
-<div>
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)](https://github.com/LordDashMe/github-contribution-stats/)
-</div>
+  
+
 
   </body>
 </html>
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)]
 
 <!---
 Adw-eeyaa/Adw-eeyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
