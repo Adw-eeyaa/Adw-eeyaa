@@ -35,7 +35,7 @@
 </div>
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)](https://github.com/Adw-eeyaa)
   </body>
 </html>
 
