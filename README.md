@@ -1,5 +1,10 @@
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa&theme=dark&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact)
+<a href="https://github-readme-stats.vercel.app/api?username=Adw-eeyaa&show_icons=true">
+     <img src="https://github-readme-stats.vercel.app/api?username=Adw-eeyaa&show_icons=true"/>
+</a>
+<a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact"/> 
+</a>
+
 
 <!-- - 👋 Hi, I’m @Adw-eeyaa
 - 👀 I’m interested in developing APIs with node.js,Java Spring Boot
