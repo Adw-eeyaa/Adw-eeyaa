@@ -4,9 +4,17 @@
 - 💞️ I’m looking to collaborate on Web-Dev projects
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
+
+
+
+
+
+
+
 --->
                                                   2d connoisseur with an insatiable love for pixels                       
 <!DOCTYPE html>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)]
 <html>
   <body>
     <div class="banner">
@@ -41,7 +49,7 @@
   </body>
 </html>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)]
+
 
 <!---
 Adw-eeyaa/Adw-eeyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
