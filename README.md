@@ -6,18 +6,23 @@
      <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact"/> 
 </a>
 </div>
-<video src="https://github.com/user-attachments/assets/7ae672f6-2afe-4237-955a-95a42c94ff2d"></video>
+
+
+<div>
+     <video src="https://github.com/user-attachments/assets/7ae672f6-2afe-4237-955a-95a42c94ff2d"></video>
+</div>
+
+
+
+
+
+
 <!-- - 👋 Hi, I’m @Adw-eeyaa
 - 👀 I’m interested in developing APIs with node.js,Java Spring Boot
 - 🌱 I’m currently learning Backend Development With java spring boot,Mongo DB,java database connectivity
 - 💞️ I’m looking to collaborate on Web-Dev projects
 - 📫 How to reach me eeyaa @discord
 - 😄 Pronouns: he/him
-
-
-
-
-
 
 
 
