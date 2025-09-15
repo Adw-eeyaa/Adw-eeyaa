@@ -9,7 +9,7 @@
 
 
 <div>
-     <video src="https://github.com/user-attachments/assets/7ae672f6-2afe-4237-955a-95a42c94ff2d"></video>
+     <video autoplay loop muted playsinline width=500 src="https://github.com/user-attachments/assets/7ae672f6-2afe-4237-955a-95a42c94ff2d"></video>
 </div>
 
 
