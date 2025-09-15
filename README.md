@@ -33,6 +33,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="69"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="50" height="69"/>
 </div>
+
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa)](https://github.com/LordDashMe/github-contribution-stats/)
   </body>
 </html>
 
