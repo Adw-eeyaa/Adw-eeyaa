@@ -1,7 +1,6 @@
 <div>
-<a href="https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa">
-     <img width=fit-content align="center" src="https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa"/>
-</a>
+
+<img width=fit-content align="center" src="https://github-contribution-stats.vercel.app/api/?username=Adw-eeyaa"/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact">
      <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adw-eeyaa&layout=compact"/> 
 </a>
